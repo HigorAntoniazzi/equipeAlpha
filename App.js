@@ -7,7 +7,7 @@ export default function App() {
 
 
       <View style={styles.header}>
-        <Text style={styles.title}>Listas</Text>
+        <Text style={styles.title}>Listas 2</Text>
       </View>
 
 
